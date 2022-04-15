@@ -1,0 +1,13 @@
+/home/zwei/Documents/CUSC-larry/bin/Debug/netcoreapp3.1/CUSC-larry
+/home/zwei/Documents/CUSC-larry/bin/Debug/netcoreapp3.1/CUSC-larry.deps.json
+/home/zwei/Documents/CUSC-larry/bin/Debug/netcoreapp3.1/CUSC-larry.runtimeconfig.json
+/home/zwei/Documents/CUSC-larry/bin/Debug/netcoreapp3.1/CUSC-larry.runtimeconfig.dev.json
+/home/zwei/Documents/CUSC-larry/bin/Debug/netcoreapp3.1/CUSC-larry.dll
+/home/zwei/Documents/CUSC-larry/bin/Debug/netcoreapp3.1/CUSC-larry.pdb
+/home/zwei/Documents/CUSC-larry/obj/Debug/netcoreapp3.1/CUSC-larry.csprojAssemblyReference.cache
+/home/zwei/Documents/CUSC-larry/obj/Debug/netcoreapp3.1/CUSC-larry.AssemblyInfoInputs.cache
+/home/zwei/Documents/CUSC-larry/obj/Debug/netcoreapp3.1/CUSC-larry.AssemblyInfo.cs
+/home/zwei/Documents/CUSC-larry/obj/Debug/netcoreapp3.1/CUSC-larry.csproj.CoreCompileInputs.cache
+/home/zwei/Documents/CUSC-larry/obj/Debug/netcoreapp3.1/CUSC-larry.dll
+/home/zwei/Documents/CUSC-larry/obj/Debug/netcoreapp3.1/CUSC-larry.pdb
+/home/zwei/Documents/CUSC-larry/obj/Debug/netcoreapp3.1/CUSC-larry.genruntimeconfig.cache
